@@ -32,15 +32,16 @@ We encourage feedback and are highly responsive to it. Sometimes this means we c
 
 Sometimes we get out of alignment.
 
-Systems and processes
-Processes and people
-People and systems
+Systems and processes.
+
+Processes and people.
+
+People and systems.
 
 If you see this happening, tell someone. Let's find a way to fix the breakdown.
 
 ## How to Interpret My Calendar 
-My calendar can look crazy, and it can fill up really fast. Take my word for it - you are my top priority. 
-If you need to talk, book some time on my calendar, or message me on ~Slack~Teams, or stop me in the hallway. Let's find some time.
+My calendar can look crazy, and it can fill up really fast. Take my word for it - you are my top priority. If you need to talk, book some time on my calendar, or message me on ~Slack~Teams, or stop me in the hallway. Let's find some time.
 
 ## Performance 
 I measure performance by effort, effectiveness, and cultural fit. I don't believe in surprising people, so if I have critical feedback to provide to you, we'll do that in our morning stand-ups and in our 1:1s. If you haven't received feedback from me, assume we're good. If you have a nudge something is off, ask me. 
