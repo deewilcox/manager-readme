@@ -16,9 +16,9 @@ If you find that you are not aligned with a process, let me know. Let's talk abo
 ### Your gift will make a way for you, but only your character will keep you there. 
 You are talented and smart, and you've worked really hard to grow your skill set. That's why you're here. 
 
-Smile Direct is fast paced and on a mission to disrupt the dental industry. This means we work hard. We're committed to increasing our skills so we produce smart solutions that lay a foundation for a stable system that supports the business goals.
+Smile Direct is on a mission to disrupt the orthodontics industry. This means we work hard and fast. We're committed to increasing our skills so we produce smart solutions that lay a foundation for a stable system that supports the business goals.
 
-I expect everyone to contribute. Commit your code daily. 
+I expect everyone to contribute. Commit your code daily. If you're not contributing, help me understand why. My job is to remove roadblocks so you can be effective. 
 
 Don't stay stuck. If you are stuck on a problem for more than 15 minutes, as one of your peers for help. If you and a peer are stuck for more than an hour, ask me, or let's do a team huddle. 
 
