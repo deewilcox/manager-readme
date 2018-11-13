@@ -48,7 +48,7 @@ People and systems.
 
 If you see this happening, tell someone. Let's find a way to fix the breakdown.
 
-## D.R.I. - Directly Responsible Individual 
+### D.R.I. - Directly Responsible Individual 
 If you wrote some code that broke something else, I prefer that you be the person to fix the break and share lessons learned with the team. If you left an exception uncaught and it's filling up our logs, I expect you to fix it. None of us is above triaging a bug, no matter how small it may seem.
 
 ## How to Interpret My Calendar 
