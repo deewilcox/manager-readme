@@ -19,7 +19,7 @@ If you find that you are not aligned with a process, let me know. Let's talk abo
 You are talented and smart, and you've worked really hard to grow your skill set. That's why you're here. Your character will carry you forward to your next phase of growth. Let's talk about this regularly and make a plan to get you to where you want to go.
 
 ### We work hard and fast.
-My teams are committed to increasing our skills so we produce innovative solutions that lay a foundation for a stable system that supports the business goals. If you need to grow in a particular skillset, let's work together to define a pathway to help you achieve that goal.
+My teams are committed to increasing our skills so we produce innovative solutions that lay a foundation for a stable system that supports the business goals. If you need to grow in a particular skill set, let's work together to define a pathway to help you achieve that goal.
 
 ### Commit your code daily. 
 It's important to push up your code daily in the event that an emergency arises, and someone else needs to pick up your work. Even if your work is just WIP, push it up at regular intervals. 
