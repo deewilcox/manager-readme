@@ -6,7 +6,7 @@ Welcome to my team! This is a brief introduction to what it's like to work with 
 ## About Me
 I am a Director of Software Engineering. I began working as a developer in early 2002 with a small set of clients. Since then, I have worked for non-profits, marketing firms, finance companies, and healthcare companies. I've worked solo, on small teams, and on large teams, most often co-located, and sometimes distributed. I love the work that I do every day, and I'm excited to get to know you and lead you on this part of your career journey.
 
-The teams I lead are full-stack engineering teams that work on innovative features that support customers in process. We are a polyglot team primarily comprised of .Net Core developers and Python developers, but we are flexible and will always evaluate and choose the best tool for the job.
+The teams I lead are full-stack engineering teams that work on innovative features that support customers in process. We are a polyglot team primarily comprised of Node.js developers and Python developers, but we are flexible and will always evaluate and choose the best tool for the job.
 
 ## Personal Principles & Values
 
@@ -35,7 +35,7 @@ If you wrote some code that broke something else, I prefer that you be the perso
 ## 1:1s
 We will meet weekly for 30-60 minutes. I will book an hour, but how we spend our time is up to you.
 
-These meetings are not status updates. The purpose of these meetings is for us to get to know each other, learn how to work well together, and so I can help further you in your career goals as we both work to move SmileDirect forward. 
+These meetings are not status updates. The purpose of these meetings is for us to get to know each other, learn how to work well together, and so I can help further you in your career goals as we both work to move Newsela forward. 
 
 ## Feedback (giving & receiving)
 We encourage feedback and are highly responsive to it. Sometimes this means we course-correct mid-stream, and that can be challenging. However, we believe that Better is Better, and we value providing the best possible solutions to our customers.
@@ -51,6 +51,6 @@ People and systems.
 If you see this happening, tell someone. Let's find a way to fix the breakdown.
 
 ## How to Interpret My Calendar 
-I intentionally make my calendar visible so that the way I spend my time is transparent. There are times when my calendar can look crazy, and it can fill up really fast. But take my word for it - you are my top priority. I'm in a lot of meetings, but most of them can be rescheduled if need be. If you need to talk, book some time on my calendar, or message me on ~Slack~Teams, or stop me in the hallway. Let's find some time.
+I intentionally make my calendar visible so that the way I spend my time is transparent. There are times when my calendar can look crazy, and it can fill up really fast. But take my word for it - you are my top priority. I'm in a lot of meetings, but most of them can be rescheduled if need be. If you need to talk, book some time on my calendar, or message me on Slack. Let's find some time.
 
 
